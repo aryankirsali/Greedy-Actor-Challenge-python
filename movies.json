@@ -1,0 +1,38 @@
+{
+  "Bala": {
+    "starting_date": 8,
+    "starting_month": "Jan",
+    "ending_date": 28,
+    "ending_month": "Jan"
+  },
+  "Rock": {
+    "starting_date": 20,
+    "starting_month": "Jan",
+    "ending_date": 30,
+    "ending_month": "Jan"
+  },
+  "Policy Maker": {
+    "starting_date": 29,
+    "starting_month": "Jan",
+    "ending_date": 16,
+    "ending_month": "Feb"
+  },
+  "Brave": {
+    "starting_date": 2,
+    "starting_month": "Feb",
+    "ending_date": 14,
+    "ending_month": "Feb"
+  },
+  "Drive": {
+    "starting_date": 10,
+    "starting_month": "Feb",
+    "ending_date": 18,
+    "ending_month": "Feb"
+  },
+  "Race": {
+    "starting_date": 15,
+    "starting_month": "Feb",
+    "ending_date": 28,
+    "ending_month": "Feb"
+  }
+}
